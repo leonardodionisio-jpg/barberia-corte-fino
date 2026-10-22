@@ -22,10 +22,3 @@ Playfair Display e Montserrat, carregadas do Google Fonts (precisa de internet; 
 1. Escreva a mensagem em **Summary**
 2. Clique em **Commit to main**
 3. Primeira vez: **Publish repository** · Depois: **Push origin**
-
-
-
-
-
-
-s
